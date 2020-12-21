@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f1f1f1;
+}
+
+.card {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+    margin: 25px 15px 5px 15px;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 2px 4px 25px rgba(59, 58, 58, .3);
+}
+
+.card h1 {
+    font-weight: normal;
+    font-size: 28px;
+}
+
+.card-description {
+    color: rgba(59, 58, 58, .6);
+    font-weight: bold;
+}
+
+.card-next {
+    float: right;
+    color: #0099e5;
+    margin-top: 40px;
+}
+
+.tags-color {
+    color: #136ad5;
+}
+
+.ad-color {
+    color: #7db633;
+}
+
+.youtube-color {
+    color: #ff0000;
+}
+
+.instagram-color {
+    color: #E1306C;
+}
